@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571787777416",
+    "project_id": "tetrisgamevn",
+    "storage_bucket": "tetrisgamevn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571787777416:android:9a02a3ed30bd941128563d",
+        "android_client_info": {
+          "package_name": "com.example.tetris_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhmJIuEmQwaeHxhF-gQDTRyk0x4iGwLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571787777416:android:d02cbd184c2a3ac328563d",
+        "android_client_info": {
+          "package_name": "com.example.tetrisgamevn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhmJIuEmQwaeHxhF-gQDTRyk0x4iGwLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

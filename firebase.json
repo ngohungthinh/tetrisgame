@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "tetrisgamevn",
+          "appId": "1:571787777416:android:9a02a3ed30bd941128563d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "tetrisgamevn",
+          "configurations": {
+            "android": "1:571787777416:android:9a02a3ed30bd941128563d",
+            "web": "1:571787777416:web:c0d6aa011a15f1cb28563d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
